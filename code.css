@@ -1,0 +1,17 @@
+body{    
+    color: white;
+    background-image: linear-gradient(rgba(160, 145, 9, 0.959), rgba(56, 228, 13, 0.61), rgb(255, 255, 255));
+    height: 200px;
+}
+.question{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
+#R{
+    float: right;
+}
+#K{
+    float: left;
+}

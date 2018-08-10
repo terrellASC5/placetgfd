@@ -1,0 +1,14 @@
+body{    
+    color: white;
+    background-image: linear-gradient(rgba(173, 5, 5, 0.63), rgba(0, 0, 0, 0.74), rgb(31, 50, 112));
+    height: 200px;
+}
+.question2{
+    text-align: center;
+}
+#R{
+    float: right;
+}
+#K{
+    float: left;
+}
